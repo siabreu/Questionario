@@ -36,7 +36,7 @@ class Resultado extends StatelessWidget {
             "Reiniciar?",
             style: TextStyle(fontSize: 18),
           ),
-          textColor: Colors.blue,
+          textColor: Colors.white,
           onPressed: _quandoReiniciarQuestionario,
         )
       ],

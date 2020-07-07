@@ -72,7 +72,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
                 quandoResponder: _responder,
               )
             : Resultado(_pontuacaoTotal, _reiniciarQuestionario),
-        //backgroundColor: Colors.indigo,
+        backgroundColor: Colors.blueGrey,
       ),
     );
   }
